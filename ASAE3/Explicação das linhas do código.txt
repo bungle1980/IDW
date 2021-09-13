@@ -1,0 +1,50 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6, 7 e 8- Link externo do google fonts para adicionar a fonte "Poppins" ao código, que será aplicada no body
+9 até 81- Toda configuração de CSS Interno do código, mudando o design do site em um todos. Como a adição da fonte, cor de fundo, borda para as imagens e para a tabela, estilo da tabela, alinhamento de texto e adição de cores específicas para quadrados na tabela. Tudo isso utilizando classes, id's e elementos.
+82- Fechamento do cabeçalho
+83- Começo do conteúdo (body)
+84- Imagem do logotipo do Wikipédia + questão 1
+85- Texto h1 introdutório citando o conteúdo da estrutura
+86- Quebra de parágrafo
+87- Parágrafo
+88- 4 imagens
+89- Texto h2
+90- Quebra de parágrafo
+91- Parágrafo
+92- texto h2
+93- Parágrafo
+94- Texto h3
+95- Parágrafo
+96- H2 ao lado da tabela para indicar a questão 2 e 3
+97- Parte dizendo sobre o que é a tabela
+98 até 183- Tabela completa, adicionando classes e id's para mudar o design.
+184- Parágrafo
+185- Quebra de parágrafo
+186- Questão 3 (h1)
+187- Quebra de parágrafo
+188- Questão 4
+189- Parágrafo
+190- Imagem
+191- Quebra de linha
+192- Parágrafo
+193- Imagem
+194- Quebra de linha
+195- Parágarfo
+196- Imagem
+197- Quebra de parágrafo
+198- Questão 5 (h1)
+199- Parágrafo
+200- Imagem
+201- Quebra de linha
+202- Parágrafo
+203- Imagem
+204- Imagem
+205- Quebra de parágrafo
+206- Questão 6 (h1)
+207 até 225- h3 apresentando uma propriedade, parágrafos explicando e por fim uma imagem mostrando o exemplo de cada prop. citada.
+226- Fechamento do conteúdo.
+227- Fechamento do código.
