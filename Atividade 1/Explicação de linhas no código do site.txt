@@ -1,0 +1,32 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6- Fechamento do cabeçalho.
+7- Começo do conteúdo (body> + adição de cor verde bem leve para o fundo ficar mais bonitinho.
+8- Imagem do IFSC que eu peguei da própria página abrindo em nova guia e copiando o link, colocando também as mesmas dimensões.
+9- Colocando os textos seguintes no centro.
+10- Colocando o texto "Notícias" com um fundo colorido.
+11- Parágrafo colorido como o título principal da matéria.
+12- Cabeçalho h6.
+13- Hiperlink para o texto "INTERNACIONAL" que fica embaixo do texto principal.
+14- <span> é um conteiner generico em linha para conteúdo fraseado, no caso, utilizei para deixar as informações de data.
+15- Mesma coisa da linha 14.
+16- Fechamento cabeçalho h6.
+17- Fechamento da tag <div> presente na linha 9.
+18- Quebra de parágrafo.
+19- Parágrafo (com hiperlink colorido verde).
+21- Parágrafo.
+23- Parágrafo (com hiperlink colorido verde).
+25- Parágrafo (com hiperlink colorido verde).
+27- Parágrafo (com hiperlink colorido verde).
+29- Parágrafo (com hiperlink colorido verde).
+30- Parágrafo (com hiperlink colorido verde).
+32- Parágrafo (com hiperlink colorido verde).
+34- Cabeçalho h3.
+36- Parágrafo (com hiperlink colorido verde).
+38- Colocando os textos seguintes no centro. + Adição através do <iframe> de link do youtube (mesmo link presente na notícia de referência) com o link "embed".
+39- Fechamento da tag <div>.
+40- Fechamento da tag <body>.
+41- Fechamento da tag <html>.
