@@ -1,0 +1,34 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6- Fechamento do cabeçalho.
+7- Começo do conteúdo (body> + adição da cor de fundo para um tema escuro e borda vermelha escura (obrigado Cristiano pela dica de colocar 2 styles no mesmo código kkkkkk)
+8- Tag para deixar o conteúdo seguinte no centro do site.
+9- Texto principal introdutório para a atividade + adição de cor.
+10- Traço colorido para separar o texto introdutório das imagens.
+11- h2 falando sobre as imagens que escolhi.
+12- Quebra de linha.
+13- Hiperlink para a imagem e o texto seguinte redirecionarem ao site na steam para comprar o jogo.
+14- Imagem de Outer Wilds, com borda sólida, width de 600 e atributo alt.
+15- Parágrafo comentando sobre a imagem.
+16- Traço colorido para separar a primeira imagem da segunda + quebra de linha
+17- Hiperlink para a imagem e o texto seguinte redirecionarem ao site na steam para comprar o jogo.
+18- Imagem de GRIS, com borda sólida, width de 600 e atributo alt.
+19- Parágrafo comentando sobre a imagem.
+20- Outro traço colorido para separar as imagens da lista de músicas.
+21- Quebra de linha.
+22- h2 introduzindo para a segunda parte da página. + fechamento do conteúdo no centro.
+23- Quebra de linha.
+24- h2 para introduzir a lista.
+25- Abrimento da lista ordenada com o tamanho da fonte 200%.
+26- Número 1 da lista.
+27- Número 2 da lista.
+28- Número 3 da lista.
+29- Número 4 da lista.
+30- Número 5 da lista.
+31- Fechamento da lista ordenada.
+32- Abrimento de tag para conteúdo ficar no centro + imagem contendo todas as thumbnails das músicas escolhidas por mim, com borda colorida, width 600 e atributo alt.
+33- Fechamento do body (conteúdo)
+34- Fechamento do <html>
