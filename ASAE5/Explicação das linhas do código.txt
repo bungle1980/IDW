@@ -1,0 +1,43 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6, 7 e 8- Link externo do google fonts para adicionar a fonte "Exo 2"
+9 até 95- Toda configuração de CSS Interno do código, em que a tarefa de alterar os elementos e utilizar margin/padding foram feitas
+96- Fechamento do cabeçalho
+97- Começo do conteúdo (body)
+98- TAG HEADER (cabeçalho do conteúdo)
+99- tag a para colocar uma imagem clicável em que leva até um link externo
+100- Imagem logotipo no canto da página
+101- Fechamento da tag a
+102 até 105- Links clicáveis sobre produtos, loja, noticias e o fórum.
+106- Fechamento do cabeçalho do conteúdo
+107- Barra lateral
+108- parágrafo para citar os arquivos com links da barra lateral
+109- tag nav (links da barra)
+110 até 129- Lista com links clicáveis
+130- Fim da tag nav
+131- Fim da tag aside (barra lateral)
+132- Tag Seção
+133- H1 (parágrafo principal da página)
+134- Informações da página logo abaixo do texto principal
+135- Artigo
+136- Tag h2 aberta (no validador de sites estava falando que seria melhor colocar um h2 ou h1 no começo de um artigo, então coloquei o h2)
+137- Texto com link clicável
+138- Texto do artigo
+139- Quebra de parágrafo
+140- Imagem do sublime
+141- Texto do artigo
+142- Fim do artigo
+143- Fim da seção
+144- começo do rodapé
+145- Link clicável no rodapé
+146- Div para fazer um fundinho bonitinho pro botao do twitter
+147- link clicável para o twitter
+148- fim da div
+149- quebra de linha
+150, 151 e 152- parágrafo com informaçoes do site (local feito)
+153- Fim do rodapé
+154- Fim do conteúdo
+155- Fechamento da tag HTML
