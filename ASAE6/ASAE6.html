@@ -1,0 +1,214 @@
+ <!DOCTYPE html>
+ <html lang="pt-BR">
+   <head>
+     <meta charset="utf-8">
+     <title>Atividade 6 - IDW</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+     <style>
+       header {
+         background-color: white;
+         flex: 1;
+       }
+
+       #div2 {
+         background-color: white;
+         flex: 10;
+       }
+
+       .div2class {
+         background-color: red;
+         flex: 8;
+         padding-bottom: 5%
+       }
+
+       footer {
+         background-color: #f7f7f7;
+         bottom: 0;
+         width: 100%;
+         border-top: solid 1px gray;
+         text-align: center;
+         padding-top: 1%;
+         padding-bottom: 4%;
+       }
+
+       .container {
+         display: flex;
+         flex-direction: column;
+         height: 100vh;
+       }
+
+       .containerlinha {
+         display: flex;
+         flex-direction: row;
+       }
+
+       aside {
+         flex: 4;
+         justify-content: space-between;
+         background-color: white;
+         border-right: solid 0.5px lightgray;
+         padding-top: 2%
+       }
+
+       section {
+         background-color: white;
+         flex: 8;
+         margin-left: 6%;
+         padding-top: 2%;
+         padding-bottom: 2%;
+       }
+
+       body {
+         margin: 0;
+         font-family: 'Noto Serif', serif;
+       }
+
+       a {
+         color: #8d8d8d;
+         text-decoration: none;
+       }
+
+       #categorias {
+         font-weight: bold;
+         font-size: 20px;
+         margin-left: 15px
+       }
+
+       #email {
+         border: solid gray;
+         margin-right: 80%
+       }
+
+       h1 {
+         text-align: center;
+         color: white;
+         font-size: 60px;
+       }
+
+       #divpesquisa {
+         width: 100%;
+         border-bottom: solid 1px gray;
+       }
+
+       #textopesquisa {
+         background-color: white;
+         padding: 20px;
+         font-size: 18px;
+         width: 30%;
+         margin-left: 440px;
+       }
+
+       section p {
+         color: #8d8d8d
+       }
+
+       h3 {
+         color: black;
+         font-size: 20px
+       }
+
+       .margem {
+         margin-left: 10px;
+         border-left: solid 0.2px gray;
+         padding: 4px;
+         font-size: 13px;
+       }
+
+       footer img {
+         width: 35px;
+         margin-right: 15px;
+       }
+
+       span {
+         color: darkgray;
+         font-size: 12px;
+         margin-right: 350px;
+       }
+
+       a:hover {
+         text-decoration: underline;
+       }
+
+       #espaço {
+         margin-bottom: 20%
+       }
+     </style>
+   </head>
+   <body>
+     <div class="container">
+       <header>
+         <a href="https://shopee.com.br/">
+           <img src="https://i.ibb.co/zWgctRF/image.png" alt="Logo da Shopee">
+         </a>
+         <a href="https://help.shopee.com.br/br/s/">
+           <img src="https://i.ibb.co/ScRDkHQ/image.png" alt="Texto: Central de ajuda">
+         </a>
+       </header>
+       <div id="divpesquisa" class="div2class">
+         <h1>Oi, como podemos ajudar?</h1>
+         <input type="text" id="textopesquisa" placeholder="Buscar...">
+       </div>
+       <div id="div2" class="containerlinha">
+         <aside>
+           <p id="categorias">CATEGORIAS</p>
+           <nav>
+             <ul>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJANWA2/account-safety-others" target="_blank">Segurança de Conta e Outros</a>
+               </li>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJAOWA2/orders-payments" target="_blank">Pedidos e Pagamentos</a>
+               </li>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJAKWA2/shopee-mall" target="_blank">Shopee Oficial</a>
+               </li>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJAQWA2/selling-billing" target="_blank">Venda e Faturamento</a>
+               </li>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJARWA2/shipping-delivery" target="_blank">Envio e Entrega</a>
+               </li>
+               <li>
+                 <a href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJAPWA2/returns-refunds" target="_blank">Devoluções e Reembolso</a>
+               </li>
+             </ul>
+           </nav>
+         </aside>
+         <section>
+           <h2>Questões Populares</h2>
+           <article>
+             <a href="https://help.shopee.com.br/br/s/article/No%C3%A7%C3%B5es-b%C3%A1sicas-do-comprador-Como-fa%C3%A7o-uma-compra-no-Shopee" target="_blank">
+               <p>[Noções Básicas Do Comprador] Como Faço Uma Compra Na Shopee?</p>
+             </a>
+             <hr>
+             <a href="https://help.shopee.com.br/br/s/article/No%C3%A7%C3%B5es-b%C3%A1sicas-do-comprador-Como-posso-verificar-o-status-da-minha-encomenda" target="_blank">
+               <p>[Noções Básicas Do Comprador] Como Posso Verificar O Status Da Minha Encomenda?</p>
+             </a>
+             <div id="espaço"></div>
+             <h3>Fale Conosco</h3>
+             <a href="https://help.shopee.com.br/br/s/contactusform?articletitle=undefined&articleId=undefined" target="_blank">
+               <div id="email">
+                 <img width="25" src="https://help.shopee.com.br/resource/1540822443000/shopeeLiveChat" alt="Logo de E-mail">------E-mail <br> Aqui escreva sua questão
+               </div>
+             </a>
+           </article>
+         </section>
+       </div>
+       <footer>
+         <span>© 2021 Shopee. All Rights Reserved.</span>
+         <a href="https://www.facebook.com/ShopeeBR" target="_blank">
+           <img src="https://help.shopee.com.br/resource/1540822442000/shopeeID_branding/shopeefiles/assets/pc_facebook_icon.png" alt="Logo do FACEBOOK">
+         </a>
+         <a href="https://www.instagram.com/Shopee_BR/" target="_blank">
+           <img src="https://help.shopee.com.br/resource/1540822442000/shopeeID_branding/shopeefiles/assets/pc_instagram_icon.png" alt="Logo do INSTAGRAM">
+         </a>
+         <a class="margem" href="https://help.shopee.com.br/s/article/Programa-de-Afiliados-da-Shopee-Termos-e-Condi%C3%A7%C3%B5es" target="_blank">Programa de Afiliados da Shopee</a>
+         <a class="margem" href="https://help.shopee.com.br/br/s/topic/0TO6F000000aJEyWAM/pol%C3%ADticas-gerais" target="_blank">Políticas da Shopee</a>
+         <a class="margem" href="https://help.shopee.com.br/s/article/Programa-de-Afiliados-da-Shopee-Termos-e-Condi%C3%A7%C3%B5es" target="_blank">Termos e Condições</a>
+         <a class="margem" href="https://help.shopee.com.br/br/s/article/pol%C3%ADticas-de-privacidade" target="_blank">Políticas de Privacidade</a>
+       </footer>
+     </div>
+   </body>
+ </html>

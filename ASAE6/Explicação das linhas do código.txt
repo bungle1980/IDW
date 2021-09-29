@@ -1,0 +1,60 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6, 7 e 8- Link externo do google fonts para adicionar a fonte "Noto Serif"
+9 até 137- Toda configuração de CSS Interno do código, em que foi aplicado o estilo de página Flexbox mostrada na aula, com o aside na esquerda, section na direita, header e footer.
+138- Fechamento do cabeçalho
+139- Começo do conteúdo (body)
+140- Abrimento do CONTAINER (Tag Div)
+141- TAG HEADER (cabeçalho do conteúdo)
+142- tag a para colocar uma imagem clicável em que leva até um link externo
+143- Imagem logotipo no canto da página
+144- Fechamento da tag a
+145- tag a com Texto que leva até a central de ajuda
+146- Imagem "Central de ajuda"
+147- Fechamento da tag a
+148- Fim do cabeçalho (header)
+149- Div para simbolizar a parte da página onde está vermelho e tem a barra dep esquisa
+150- H1 (parágrafo principal)
+151- Barra de pesquisa
+152- fechamento da tag DIV
+153- Div com classe e ID para fazer a estrutura da página em FLEXBOX
+154- abrimento da tag ASIDE (BARRA LATERAL)
+155- Parágrafo para introduzir a barra de navegação
+156 até 177- Barra de navegação com lista de hiperlinks 
+178- Fechamento da tag aside
+179- Abrimento da tag section
+180- H2 (parágrafo secundário introduzindo as questões)
+181- Artigo (perguntas principais da página para central de ajuda)
+182- tag a para fazer o parágrafo ser um hiperlink
+183- Parágrafo pergunta
+184- Fim da tag a
+185- Quebra de parágrafo
+186- Tag a para fazer o parágrafo ser um hiperlink de novo
+187- Parágrafo pergunta de novo
+188- Fechamento tag a
+189- Tag div com id de espaço para ter um espaço em branco sem ter que colocar muitos quebradores de linha
+190- H3 para informar os meios de comunicação para receber ajuda
+191- Tag a para ser clicável a barra inteira de espaço para mandar mensagem até a central da loja
+192- Div Clicável e-mail
+193- Imagem de e-mail que está no site oficial + texto
+194- Fechamento da div clicável
+195- fechamento da tag a
+196- Fechamento do artigo
+197- Fechamento da section
+198- Fechamento da div da linha 153 com o id div2 e classe containerlinha (flexbox ta parte section do site)
+199- RODAPÉ
+200- span para simbolizar informações de direitos autorais que tem no site
+201- Tag a para deixar a logo do Facebook com link redirecionado
+202- Imagem logo facebook
+203- Fechamento tag a
+204- Tag a para deixar a logo do Instagram com link redirecionado
+205- Imagem logo Instagram
+206- Fechamento tag a
+207 até 210- Linhas colocando hiperlinks que levam para outras páginas para retirar dúvidas e esclarecer conteúdos do site
+211- Fim do rodapé (footer)
+212- Fechamento da div lá da linha 140 que fez a estrutura flexbox do site
+213- Fim do conteúdo
+214- Fechamento da tag HTML
