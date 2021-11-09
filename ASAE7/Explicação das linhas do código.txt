@@ -1,0 +1,36 @@
+1- Definição do documento como HTML5 - versão mais recente.
+2- Representa a raiz de um documento HTML ou XHTML + Definição da língua pt-BR para a página.
+3- Abrir o cabeçalho.
+4- Indicar o formato de codificação de caracteres utilizado no documento.
+5- Título da página.
+6, 7 e 8- Link externo do google fonts para adicionar a fonte geral da página
+9 até 130- Toda configuração de CSS Interno do código, onde foi utilizado submissão via formulário falada pelo professor.
+131- Fechamento do cabeçalho
+132- Começo do conteúdo (body)
+133- Hiperlink para abrir o GMAIL
+134- Hiperlink para abrir o GOOGLE IMAGENS
+135- Tag a fazendo a imagem da linha seguinte virar um hiperlink
+136- Imagem de grade dos aplicativos do google clicável
+137- Fechamento tag a
+138- Tag a fazendo a imagem da linha seguinte virar outro hiperlink
+139- Imagem logo simulando foto do perfil no canto do site clicável
+140- Fechamento tag a
+141- Quebra de linha
+142- Tag a fazendo o logo principal da google ser clicável
+143- Logo da GOOGLE no estilo do jogo MINECRAFT
+144- Fechamento tag a
+145- Abrimento do Formulário para a barra de pesquisa
+146- Input com a barra de pesquisa principal para redirecionar ao google
+147- Input com o "submit" com imagem de lupinha
+148- Quebra de linha
+149- Fechamento do formulário
+150- Botão clicável "Pesquisa Google"
+151- Botão clicável "Estou com sorte"
+152- Div para representar o rodapé
+153- Hiperlink redirecionando ao meu GitHub
+154- Hiperlink redirecionando a minha Steam
+155- Hiperlink redirecionando ao e-mail (mailto)
+156- Hiperlink redirecionando ao meu Repositório com as atividades de Desenvolvimento Web
+157- Fechamento da tag div (rodapé)
+158- Fim do conteúdo
+159- Fechamento da tag HTML
